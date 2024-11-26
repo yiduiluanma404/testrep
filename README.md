@@ -42,3 +42,44 @@
 测试插入本地图片
 
 ![.jpg](https://s2.loli.net/2024/11/26/jEYvdOi7qLn4uo5.jpg)
+
+在文章中插入特定代码段
+
+```bash
+sudo apt-get install git
+```
+
+```c
+#include <stdio.h>
+#include <stdlib.h>
+#include <unistd.h>
+
+int main(void)
+{
+    printf("c 语言测试代码..\n");
+    return 0;
+}
+```
+
+```cpp
+#include <iostream>
+using namespace std;
+
+int main(void)
+{
+    cout << "c++ 测试代码" << endl;
+}
+```
+
+```python
+import os
+
+def self_main():
+    file_list = os.listdir(backup.dir)
+    return file_list
+```
+
+```java
+    一段java测试代码
+```
+
