@@ -39,3 +39,6 @@
 [1]:https://www.github.com "GitHub官网"
 [2]:https://git-scm.com/downloads "Git下载"
 
+测试插入本地图片
+
+![.jpg](https://s2.loli.net/2024/11/26/jEYvdOi7qLn4uo5.jpg)
